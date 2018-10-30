@@ -2,13 +2,13 @@
 
 <img src="https://image.ibb.co/hJvX3A/Screenshot-20181029-171238.png" alt="Screenshot">
 
-# Instructions:
+## Instructions:
 - Install it
 - Reboot
 - Enjoy.
 
-# Infos
-### Licence: GPL3
+## Infos:
+- Licence: GPL3
 
 ### v1
 - Initial release
