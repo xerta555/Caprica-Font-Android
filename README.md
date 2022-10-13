@@ -10,6 +10,10 @@
 ## Infos:
 - Licence: GPL3
 
+## v2
+- Font updated
+- Compatibility for last Magisk version
+
 ### v1
 - Initial release
 
